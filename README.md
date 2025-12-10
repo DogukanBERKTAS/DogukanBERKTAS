@@ -43,7 +43,3 @@
 - ✉️ [E-posta](mailto:)  
 - 💼 [LinkedIn](https://linkedin.com/in/) 
 
----
-
-✨ “Hayallerim için çalışıyor, adım adım ilerliyorum.” ✨
-✨ “I work towards my dreams and move forward step by step.” ✨
