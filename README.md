@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Doğukan / # 👋 Hello, I'm Doğukan
 
-- 🎉 23 yaşındayım | 💼 Devlet Memuru  
+- 🎉 20 yaşındayım | 💼 Devlet Memuru  
 - 🎉 I'm 20 years old | 💼 Civil Servant 
 - 📚 Eğitim: Bilgi ve Belğe Yönetimi -  Bilgisayar Programcılığı
 - 📚 Education: Information and Document Management - Computer Programming  
